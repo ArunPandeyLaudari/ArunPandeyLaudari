@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Arun Pandey Laudari! 🎓 I’m currently pursuing a Bachelor's degree in Computer Applications. 💻 I’m passionate about coding and continuously learning
+👋 Hi, I’m Arun Pandey Laudari ,driven developer specializing in Web Development with React.js⚛️,Laravel ⚙️,and exploring Python 🐍,Machine Learning 🤖 & AI🧠.
 
 
 ## 🌐 Socials:
