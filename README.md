@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Arun Pandey Laudari ,driven developer specializing in Web Development with React.js⚛️,Laravel ⚙️,and exploring Python 🐍,Machine Learning 🤖 & AI🧠.
+👋 Hi, I’m Arun Pandey Laudari ,driven developer specializing in Web Development with React.js⚛️,Laravel ⚙️,and exploring mobile development with Flutter 📱
 
 
 ## 🌐 Socials:
