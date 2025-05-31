@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate Developer || Laravel & Flutter Enthusiast<br>Building dynamic web applications with Laravel & creating seamless mobile experiences with Flutter.<br>Always learning, always coding.
+🚀 Passionate Developer || Laravel Enthusiast<br>Building dynamic web applications with Laravel<br>Always learning, always coding.
 Let’s build something amazing Together!🔥
 
 
