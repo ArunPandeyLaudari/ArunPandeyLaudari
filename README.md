@@ -24,21 +24,23 @@
 <img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```typescript
-const arun = {
-    name: "Arun Pandey Laudari",
-    role: "Full-Stack Developer & AI Enthusiast",
-    location: "Kathmandu, Nepal 🇳🇵",
-    languages: ["Python", "PHP", "JavaScript", "Java", "C#"],
-    frameworks: ["Django", "Laravel", "React", "FastAPI"],
-    currentFocus: ["AI/ML Integration", "Clean Architecture"],
-    passion: "Building scalable solutions that matter",
-    
-    sayHello() {
-        console.log("Let's create something extraordinary together! 🚀");
-    }
-};
+class Arun:
+    def __init__(self):
+        self.name = "Arun Pandey Laudari"
+        self.role = "Full-Stack Developer & AI Enthusiast"
+        self.location = "Kathmandu, Nepal 🇳🇵"
+        self.languages = ["Python", "PHP", "JavaScript", "Java", "C#"]
+        self.frameworks = ["Django", "Laravel", "React", "FastAPI"]
+        self.current_focus = ["AI/ML Integration", "Clean Architecture"]
+        self.passion = "Building scalable solutions that matter"
 
-arun.sayHello();
+    def say_hello(self):
+        print("Let's create something extraordinary together! 🚀")
+
+
+# Create instance and call method
+arun = Arun()
+arun.say_hello()
 ```
 
 
@@ -76,8 +78,6 @@ arun.sayHello();
 </p>
 
 </div>
-=
-
 
 
 
