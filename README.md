@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="400" height="330" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNwbXV2cHQyZDBxcWtkYjA5c2d6N2R2ZnhyOHRvcmJseGJvbnFmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" alt="Coding GIF" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNwbXV2cHQyZDBxcWtkYjA5c2d6N2R2ZnhyOHRvcmJseGJvbnFmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ```typescript
 class About_me:
