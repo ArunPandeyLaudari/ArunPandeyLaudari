@@ -37,8 +37,6 @@ class Arun:
     def say_hello(self):
         print("Let's create something extraordinary together! 🚀")
 
-
-# Create instance and call method
 arun = Arun()
 arun.say_hello()
 ```
