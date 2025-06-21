@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" height="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding GIF" width="400" height="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```typescript
 class About_me:
