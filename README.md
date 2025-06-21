@@ -104,30 +104,30 @@ arun.say_hello()
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div align="left">
   <a href="mailto:arunpandeylaudari2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://facebook.com/arun.pandey.laudari">
+  
+  <a href="https://www.facebook.com/profile.php?id=100035424161345">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/arunlaudari1">
+  
+  <a href="https://www.instagram.com/arun_laudari1/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://x.com/arunpandeylaudari">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://youtube.com/@arunpandeylaudari">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  
+  <a href="https://www.linkedin.com/in/arun-pandey-laudari-214a9832a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
 </div>
 
-<div align="center">
+<div align="left">
   <i>⭐️ From <a href="https://github.com/ArunPandeyLaudari">ArunPandeyLaudari</a></i>
 </div>
