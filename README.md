@@ -1,5 +1,3 @@
-<div align="left">
-
 
 <!-- Typing Animation -->
 <p align="center">
@@ -118,6 +116,3 @@ arun.say_hello()
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-
-
-</div>
