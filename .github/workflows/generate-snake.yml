@@ -1,37 +1,34 @@
-name: Generate Snake SVG
+name: Generate Snake Animation
 
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: '0 0 * * *'  # runs every day at midnight UTC
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+  workflow_dispatch:   # Allows manual triggering
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - name: Set Up Python
+        uses: actions/setup-python@v5
         with:
-          node-version: '16'
+          python-version: '3.x'
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: Run snake SVG generation script
-        run: node scripts/generate-snake.js
-
-      - name: Commit and push changes
+      - name: Install Dependencies
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add path/to/generated/snake.svg
-          git commit -m "Auto-update snake SVG"
+          pip install -r requirements.txt
+
+      - name: Generate Snake SVG
+        run: |
+          python generate_snake.py  # Replace with your actual script
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions@example.com"
+          git config --local user.name "GitHub Actions"
+          git add output/snake.svg
+          git commit -m "Update snake.svg"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
