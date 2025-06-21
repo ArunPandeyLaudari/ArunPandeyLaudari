@@ -33,10 +33,6 @@ arun.say_hello()
 
 ---
 
-![Build Status](https://github.com/ArunPandeyLaudari/ArunPandeyLaudari/actions/workflows/generate-snake.yml/badge.svg) 
-
----
-
 ## 🚀 Tech Stack & Tools
 
 ### Programming Languages
