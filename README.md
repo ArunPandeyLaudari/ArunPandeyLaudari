@@ -1,45 +1,104 @@
-# Hi, I'm Arun Pandey Laudari 👋
+<div align="center">
 
-Full-Stack Web Developer specializing in **Django** and **Laravel** with a growing focus on **AI/ML technologies**. I build scalable web applications and explore intelligent solutions for real-world problems.
+# Arun Pandey Laudari
+### Full-Stack Developer | AI/ML Enthusiast | Problem Solver
 
-## 🛠️ Tech Stack
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Django+%26+Laravel+Expert;AI%2FML+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-**Languages:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+</div>
 
-**Frameworks & Libraries:**  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **Full-Stack Web Developer** with expertise in **Django (Python)** and **Laravel (PHP)**, currently expanding into **Artificial Intelligence and Machine Learning**. I focus on building scalable, efficient applications that solve real-world problems through clean code and innovative solutions.
+
+- 🔭 Currently working on **AI-integrated web applications**
+- 🌱 Learning **Machine Learning** and **Data Science**
+- 👯 Looking to collaborate on **open source projects**
+- 💡 Passionate about **clean code** and **scalable architecture**
+- 📫 Reach me at **arunpandeylaudari2003@gmail.com**
+
+---
+
+## 🚀 Technical Skills
+
+<div align="center">
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Web Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Databases & Tools:**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### Frontend Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-**AI/ML & Data Science:**  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 
-## 📊 GitHub Stats
+### AI/ML & Data Science
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunpandeylaudari&show_icons=true&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
+### Design & Development Tools
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunpandeylaudari&layout=compact&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
+</div>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=arunpandeylaudari&theme=rose_pine&hide_border=false)
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArunPandeyLaudari&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunPandeyLaudari&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ArunPandeyLaudari&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9)
+
+</div>
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ArunPandeyLaudari&theme=github_dark&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArunPandeyLaudari/ArunPandeyLaudari/output/github-contribution-grid-snake-dark.svg">
@@ -47,17 +106,54 @@ Full-Stack Web Developer specializing in **Django** and **Laravel** with a growi
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArunPandeyLaudari/ArunPandeyLaudari/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arunpandeylaudari&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
-
-## 🌐 Connect with Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/arun.pandey.laudari)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/arunlaudari1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunpandeylaudari2003@gmail.com)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/arunpandeylaudari)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@arunpandeylaudari)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@arunpandeylaudari)
+</div>
 
 ---
-![Profile Views](https://visitcount.itsvg.in/api?id=arunpandeylaudari&icon=0&color=0)
+
+## 🎯 Current Focus & Goals
+
+```python
+class ArunPandeyLaudari:
+    def __init__(self):
+        self.name = "Arun Pandey Laudari"
+        self.role = "Full-Stack Developer"
+        self.languages = ["Python", "PHP", "JavaScript", "Java", "C", "C#"]
+        self.frameworks = ["Django", "Laravel", "FastAPI", "React"]
+        self.databases = ["MySQL", "SQLite"]
+        self.current_focus = ["AI/ML Integration", "Data Science", "Clean Architecture"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+
+me = ArunPandeyLaudari()
+me.say_hi()
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arunpandeylaudari2003@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/arun.pandey.laudari)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arunlaudari1)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arunpandeylaudari)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arunpandeylaudari)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@arunpandeylaudari)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=ArunPandeyLaudari&color=0e75b6&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/ArunPandeyLaudari?style=for-the-badge&color=0e75b6)
+
+**⭐ From [ArunPandeyLaudari](https://github.com/ArunPandeyLaudari)**
+
+</div>
