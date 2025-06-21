@@ -33,7 +33,7 @@ arun.say_hello()
 
 ---
 
-<img src="https://raw.githubusercontent.com/ArunPandeyLaudari/ArunPandeyLaudari/output/snake.svg" alt="GitHub Snake Animation" />
+![GitHub Snake Animation](https://raw.githubusercontent.com/ArunPandeyLaudari/ArunPandeyLaudari/output/snake.svg) 
 
 ---
 
