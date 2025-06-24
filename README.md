@@ -88,9 +88,14 @@ arun.say_hello()
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunPandeyLaudari&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunPandeyLaudari&theme=github-dark-blue" alt="GitHub Streak"/>
+<div style="text-align: left;">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ArunPandeyLaudari&theme=github-dark-blue" 
+    alt="GitHub Streak Stats" 
+    style="max-width: 100%; height: auto;"
+  />
 </div>
+
 
 ---
 
